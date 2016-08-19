@@ -3,7 +3,7 @@ import shodan
 import sys
 import re
 #Config
-API_KEY = "9193eCFxLeAwTFDFr0hMFGSuE8v9MLu2"
+API_KEY = ""
 
 #Input Check
 if len(sys.argv) == 1:
